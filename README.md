@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ephraim Tamuka Makurumidze</h1>
 <h3 align="left">I am a software engineer</h3>
-- 🔭 I’m currently working on [teillo](www.teillo.com)
+- 🔭 I’m currently working on [teillo](business.teillo.com)
 
-- 💬 Ask me about **react, next.js, flutter**
+- 💬 Ask me about **react, **next.js, flutter**
 
 - 📫 How to reach me **ephraimtamuka@gmail.com**
 
